@@ -35,8 +35,8 @@ Netflix-Analysis/
 │   └── data_visualization.py     # Построение графиков
 │
 ├── Reports/
-│   └── Figures                   # Графики 
-│   └── Report.pdf                
+│   ├── Figures                   # Графики 
+│   ├── Report.pdf                
 │   └── Report_eng.pdf
 │
 ├── README.md
