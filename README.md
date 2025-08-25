@@ -26,7 +26,7 @@ Netflix-Analysis/
 │   ├── Processed/
 │   │   └── cleaned_netflix_titles.csv  # очищенный датасет
 │   └── Raw/
-│       └── netflix_titles.csv          # очищенный датасет
+│       └── netflix_titles.csv          # ориганальный датасет
 │
 ├── Process/
 │   ├── data_preprocessing.py     # Загрузка и предобработка данных
